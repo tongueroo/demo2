@@ -11,8 +11,8 @@ class Hotdog
     puts "applying ketchup"
   end
 
-  def apply_mustard
-    puts "applying mustard"
+  def apply_mustard!
+    puts "applying mustard!"
   end
 
   def apply_relish
