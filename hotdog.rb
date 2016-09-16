@@ -3,8 +3,8 @@ class Hotdog
     puts "making hotdog"
   end
 
-  def eat
-    puts "eating hotdog"
+  def eat!
+    puts "eating hotdog!"
   end
 
   def apply_ketchup
