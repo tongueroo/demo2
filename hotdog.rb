@@ -15,11 +15,7 @@ class Hotdog
     puts "applying mustard!"
   end
 
-  def apply_relish
-    puts "applying relish"
-  end
-
-  def toss
-    puts "tossing hotdog"
+  def toss!
+    puts "tossing hotdog!"
   end
 end
